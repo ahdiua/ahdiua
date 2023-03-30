@@ -1,7 +1,4 @@
 #Hi 
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ahdiua" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdiua&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahdiua&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahdiua)](https://github.com/anuraghazra/github-readme-stats)
